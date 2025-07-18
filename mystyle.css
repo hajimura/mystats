@@ -6,18 +6,6 @@ body {
     padding: 0;
 }
 
-a {
-    color: #d8ded3;
-    text-decoration: none;
-}
-
-a:focus,
-a:hover {
-    color: #d8ded3;
-    text-decoration: underline;
-}
-
-/* Стили таблицы */
 table {
     font-size: 12px;
     width: 100%;
@@ -48,7 +36,6 @@ tr {
     background: #393e34;
 }
 
-/* Цветовые стили */
 .iN {
     color: #FF0000;
 }
@@ -69,7 +56,6 @@ tr {
     border-right: 2px solid #208836;
 }
 
-/* Стили иконок скиллов */
 #Lm, #L, #Lp,
 #Mm, #M, #Mp,
 #Hm, #H, #Hp,
@@ -95,7 +81,6 @@ tr {
 #Pp { background-image: url(Pp.png); }
 #G  { background-image: url(G.png); }
 
-/* Элементы интерфейса */
 .circle-online {
     display: inline-block;
     border: 1px outset #8c8c8c;
@@ -139,7 +124,6 @@ tr {
     font-weight: bold;
 }
 
-/* Текст и типографика */
 p {
     margin-bottom: 5px;
     margin-top: 2px;
@@ -161,7 +145,6 @@ p {
     color: #afbfc7;
 }
 
-/* Бейджи */
 .badge {
     display: inline-block;
     padding: 2px 4px;
@@ -204,7 +187,6 @@ p {
     background-color: #383838;
 }
 
-/* Адаптивные стили */
 @media screen and (min-height: 410px) {
     table {
         font-size: 13px;
@@ -316,7 +298,6 @@ p {
     }
 }
 
-/* Специальные стили для динамического применения */
 #dynamic-style {
-    display: none; /* Скрываем, так как стили уже применены */
+    display: none;
 }}
