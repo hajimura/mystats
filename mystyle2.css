@@ -56,20 +56,20 @@ tr {
     border-right: 2px solid #208836;
 }
 
-#Lm {background-image: url(Lm.png);background-position: left center;background-repeat: no-repeat;padding-top: 2px;color: #5a5454;font-size: 11px;text-indent: 14px;background-origin: content-box;}
-#L {background-image: url(L.png);background-position: left center;background-repeat: no-repeat;padding-top: 2px;color: #5a5454;font-size: 11px;text-indent: 14px;background-origin: content-box;}
-#Lp {background-image: url(Lp.png);background-position: left center;background-repeat: no-repeat;padding-top: 2px;color: #5a5454;font-size: 11px;text-indent: 14px;background-origin: content-box;}
-#Mm {background-image: url(Mm.png);background-position: left center;background-repeat: no-repeat;padding-top: 2px;color: #5a5454;font-size: 11px;text-indent: 14px;background-origin: content-box;}
-#M {background-image: url(M.png);background-position: left center;background-repeat: no-repeat;padding-top: 2px;color: #5a5454;font-size: 11px;text-indent: 14px;background-origin: content-box;}
-#Mp {background-image: url(Mp.png);background-position: left center;background-repeat: no-repeat;padding-top: 2px;color: #5a5454;font-size: 11px;text-indent: 14px;background-origin: content-box;}
-#Hm {background-image: url(Hm.png);background-position: left center;background-repeat: no-repeat;padding-top: 2px;color: #5a5454;font-size: 11px;text-indent: 14px;background-origin: content-box;}
-#H {background-image: url(H.png);background-position: left center;background-repeat: no-repeat;padding-top: 2px;color: #5a5454;font-size: 11px;text-indent: 14px;background-origin: content-box;}
-#Hp {background-image: url(Hp.png);background-position: left center;background-repeat: no-repeat;padding-top: 2px;color: #5a5454;font-size: 11px;text-indent: 14px;background-origin: content-box;}
-#Pm {background-image: url(Pp.png);background-position: left center;background-repeat: no-repeat;padding-top: 2px;color: #5a5454;font-size: 11px;text-indent: 14px;background-origin: content-box;}
-#P {background-image: url(P.png);background-position: left center;background-repeat: no-repeat;padding-top: 2px;color: #5a5454;font-size: 11px;text-indent: 14px;background-origin: content-box;}
-#Pp {background-image: url(Pm.png);background-position: left center;background-repeat: no-repeat;padding-top: 2px;color: #5a5454;font-size: 11px;text-indent: 14px;background-origin: content-box;}
-#G {background-image: url(G.png);background-position: left center;background-repeat: no-repeat;padding-top: 2px;color: #5a5454;font-size: 11px;text-indent: 14px;background-origin: content-box;}
-#B {background-image: url(B.png);background-position: left center;background-repeat: no-repeat;padding-top: 2px;color: #5a5454;font-size: 11px;text-indent: 14px;background-origin: content-box;}
+#Lm {background-image: url(Lm.png);background-position: left center;background-repeat: no-repeat;padding-top: 2px;font-size: 11px;text-indent: 16px;background-origin: content-box;}
+#L {background-image: url(L.png);background-position: left center;background-repeat: no-repeat;padding-top: 2px;font-size: 11px;text-indent: 16px;background-origin: content-box;}
+#Lp {background-image: url(Lp.png);background-position: left center;background-repeat: no-repeat;padding-top: 2px;font-size: 11px;text-indent: 16px;background-origin: content-box;}
+#Mm {background-image: url(Mm.png);background-position: left center;background-repeat: no-repeat;padding-top: 2px;font-size: 11px;text-indent: 16px;background-origin: content-box;}
+#M {background-image: url(M.png);background-position: left center;background-repeat: no-repeat;padding-top: 2px;font-size: 11px;text-indent: 16px;background-origin: content-box;}
+#Mp {background-image: url(Mp.png);background-position: left center;background-repeat: no-repeat;padding-top: 2px;font-size: 11px;text-indent: 16px;background-origin: content-box;}
+#Hm {background-image: url(Hm.png);background-position: left center;background-repeat: no-repeat;padding-top: 2px;font-size: 11px;text-indent: 16px;background-origin: content-box;}
+#H {background-image: url(H.png);background-position: left center;background-repeat: no-repeat;padding-top: 2px;font-size: 11px;text-indent: 16px;background-origin: content-box;}
+#Hp {background-image: url(Hp.png);background-position: left center;background-repeat: no-repeat;padding-top: 2px;font-size: 11px;text-indent: 16px;background-origin: content-box;}
+#Pm {background-image: url(Pp.png);background-position: left center;background-repeat: no-repeat;padding-top: 2px;font-size: 11px;text-indent: 16px;background-origin: content-box;}
+#P {background-image: url(P.png);background-position: left center;background-repeat: no-repeat;padding-top: 2px;font-size: 11px;text-indent: 16px;background-origin: content-box;}
+#Pp {background-image: url(Pm.png);background-position: left center;background-repeat: no-repeat;padding-top: 2px;font-size: 11px;text-indent: 16px;background-origin: content-box;}
+#G {background-image: url(G.png);background-position: left center;background-repeat: no-repeat;padding-top: 2px;font-size: 11px;text-indent: 16px;background-origin: content-box;}
+#B {background-image: url(B.png);background-position: left center;background-repeat: no-repeat;padding-top: 2px;font-size: 11px;text-indent: 16px;background-origin: content-box;}
 
 .circle-online {
     display: inline-block;
